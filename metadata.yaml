@@ -1,0 +1,44 @@
+_repo: Totem-and-TabooResemblances-Between-the-Psychic-Lives-of-Savages-and-Neurotics_41214
+_version: 0.1.0
+alternative_title: Totem und tabu. English
+contributor:
+  translator:
+    agent_name: Brill, A. A. (Abraham Arden)
+    alias: Brill, Abraham Arden
+    birthdate: 1874
+    deathdate: 1948
+    gutenberg_agent_id: '5774'
+    url: http://www.gutenberg.org/2009/agents/5774
+covers:
+- cover_type: archival
+  image_path: 41214-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
+description: ''
+gutenberg_issued: '2012-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41214'
+  lccn: '20012143'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Taboo'
+- !lcsh 'Ethnopsychology'
+- !lcc 'RC'
+- !lcsh 'Totemism'
+- !lcsh 'Neuroses'
+- !lcsh 'Psychoanalysis'
+title: 'Totem and Taboo
+
+  Resemblances Between the Psychic Lives of Savages and Neurotics'
+url: http://www.gutenberg.org/ebooks/41214
