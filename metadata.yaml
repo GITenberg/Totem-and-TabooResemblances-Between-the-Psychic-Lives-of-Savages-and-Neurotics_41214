@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/391
     wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41214#Totem-and-TabooResemblances-Between-the-Psychic-Lives-of-Savages-and-Neurotics
 gutenberg_issued: '2012-10-28'
 gutenberg_type: Text
 identifiers:
